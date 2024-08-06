@@ -49,6 +49,8 @@
 body {
     background-image: url('https://static.vecteezy.com/system/resources/previews/025/870/841/non_2x/green-nature-on-blur-backgroud-beautiful-nature-as-spring-wallpaper-generative-ai-free-photo.jpeg');
     font-family: 'Roboto', sans-serif;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
 }
 
 .navbar {
