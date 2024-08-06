@@ -146,6 +146,7 @@ body, html {
     max-width: 1200px; /* Limit the max width of the container */
     margin: 0 auto; /* Center the container */
 }
+
 </style>
 
 <script src="{{ mix('js/app.js') }}"></script>
